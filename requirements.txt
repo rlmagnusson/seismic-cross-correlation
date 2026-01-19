@@ -1,0 +1,5 @@
+numpy
+pandas
+obspy
+tqdm
+h5py
